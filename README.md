@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning Java and Data Structure & Algorithms.   
   
 
-- ❓ Ask me about anything related to frontend and related technologies  
+- ❓ Have any query, ask me.  
   
 
 - ⚡ Fun fact: I am good listener. :)  
