@@ -71,6 +71,9 @@
 <a href="https://instagram.com/raj_sharma75/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%2324292e.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+<a href="https://leetcode.com/sharma75">
+  <img src="https://camo.githubusercontent.com/3c610fbb56cb54a4720f012dc4625f721ca5afbdecc30dd1f3380edb2f4fe571/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c656574436f646526636f6c6f723d323232323232266c6f676f3d4c656574436f6465266c6f676f436f6c6f723d464641313136266c6162656c3d" height=25>
+</a> 
 <a href="https://twitter.com/sharma970097/" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2324292e.svg?follow/:sharma970097?label=Follow?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
